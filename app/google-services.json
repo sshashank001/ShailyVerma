@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277990775378",
+    "firebase_url": "https://shaily-verma-the-artist.firebaseio.com",
+    "project_id": "shaily-verma-the-artist",
+    "storage_bucket": "shaily-verma-the-artist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277990775378:android:cd01123f2363b2df",
+        "android_client_info": {
+          "package_name": "com.theartist.shailyverma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277990775378-bcuoucg9pfqjlurqg7hdhg9qs34pstp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCNYVDT48gefmstc-Droxa3DCHi_lJbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
